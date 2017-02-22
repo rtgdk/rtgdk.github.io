@@ -48,19 +48,19 @@
 <h3 id="header-3">Projects:
 
 <dl>
-<a href="https://github.com/rtgdk/ssms/"><dt>SSMS Grub Portal</dt></a>
+<a href="https://rtgdk.github.io/ssms/"><dt>SSMS Grub Portal</dt></a>
 <dd>A web portal to curb grub fake signing in the campus</dd>
-<a href="https://github.com/rtgdk/VizAid/"><dt>VizAid</dt></a>
+<a href="https://rtgdk.github.io/VizAid/"><dt>VizAid</dt></a>
 <dd>An Android App for the Visually Impaired people to see through their Smartphone.</dd>
-<a href="https://github.com/rtgdk/restaurant/"><dt>Restaurants</dt></a>
+<a href="https://rtgdk.github.io/rtgdk/restaurant/"><dt>Restaurants</dt></a>
 <dd>A web portal for online/offline management and ordering of LHDIndia.</dd>
-<a href="https://github.com/rtgdk/UML-Sequence-Diagrams"><dt>UML-Sequence-Diagrams</dt></a>
+<a href="https://rtgdk.github.io/UML-Sequence-Diagrams"><dt>UML-Sequence-Diagrams</dt></a>
 <dd>To generate test cases from UML sequence diagrams. </dd>
-<a href="https://github.com/rtgdk/bhopal_incinerators"><dt>Bhopal Incinerators</dt></a>
+<a href="https://rtgdk.github.io/bhopal_incinerators"><dt>Bhopal Incinerators</dt></a>
 <dd>Website for Bhopal Incinerators.</dd>
-<a href="https://github.com/rtgdk/bloodbank"><dt>BloodBank</dt></a>
+<a href="https://rtgdk.github.io/bloodbank"><dt>BloodBank</dt></a>
 <dd>Finding blood online.</dd>
-<a href="https://github.com/rtgdk/Signing-Portal"><dt>Signing-Portal</dt></a>
+<a href="https://rtgdk.github.io/Signing-Portal"><dt>Signing-Portal</dt></a>
 <dd>Extending SSMS Grub portal to include t-shirts,sweatshirt, event and prof shows signing in the campus.</dd>
 </dl>
 </h3>
@@ -83,7 +83,7 @@
 
         <aside id="sidebar">
           
-            <a href="" class="button">
+            <a href="Resume_Rohit_Lodha.pdf" class="button">
               <small>Download</small>
               Resume
             </a>
