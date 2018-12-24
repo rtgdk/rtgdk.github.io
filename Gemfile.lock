@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     jekyll-theme-architect (0.0.3)
-      jekyll (~> 3.3)
+      jekyll (~> 3.6.3)
 
 GEM
   remote: https://rubygems.org/
@@ -10,7 +10,7 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
-    ffi (1.9.17)
+    ffi (1.9.24)
     forwardable-extended (2.6.0)
     jekyll (3.4.0)
       addressable (~> 2.4)
